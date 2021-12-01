@@ -10,6 +10,7 @@ import * as pl from "./languages/pl.json";
 import * as ptBr from "./languages/pt-BR.json";
 import * as ru from "./languages/ru.json";
 import * as uk from "./languages/uk.json";
+import * as nbNo from "./languages/nb-NO.json";
 import { Language, TranslatableString, XiaomiVacuumMapCardConfig } from "../types/types";
 import { HomeAssistant } from "custom-card-helpers";
 
@@ -21,6 +22,7 @@ const languages: Record<string, unknown> = {
     fr: fr,
     hu: hu,
     it: it,
+    "nb-NO": nbNo,
     nl: nl,
     pl: pl,
     "pt-BR": ptBr,

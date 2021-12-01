@@ -646,6 +646,7 @@ Currently, this card contains translations for following languages:
 * `fr` - French (Français)
 * `hu` - Hungarian (Magyar)
 * `it` - Italian (Italiano)
+* `nb-NO` - Norwegian Bokmål (Norsk Bokmål)
 * `nl` - Dutch (Nederlands)
 * `pl` - Polish (Polski)
 * `pt-BR` - Brazilian Portuguese (Português Brasileiro)
